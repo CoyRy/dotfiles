@@ -8,9 +8,10 @@ This repository contains configuration files and scripts to enhance the command-
 * [Vim Configuration (`vim-config`)](vim-config/README.md): Vim configuration and installation script
 
 
-## How to clone repository
-`git clone github.com/CoyRy/dotfiles ~/homefiles`
+## How to clone repository:
 
+`git clone https://github.com/CoyRy/dotfiles ~/homefiles`
+* `~/homefiles`  this will place the repository in your home directory change if needed
 * make sure to give executable permission to scripts
  
 ## Retrospective notes of desired improvements
