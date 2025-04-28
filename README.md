@@ -1,7 +1,7 @@
 ## CoyRy dotfiles
+This repository contains configuration files and scripts to enhance the command-line experience on Linux, it includes:
 
-## What this dotfiles collection contains
-This repository contains configuration files and scripts to enhance the command-line experience on Ubuntu, primarily for Bash.  It includes:
+## Contents
 
 * [Bash Configuration (`homefiles`)](homefiles/README.md)
 * [System Installation Scripts (`sys-installs`)](sys-installs/README.md)
