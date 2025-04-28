@@ -13,15 +13,17 @@ The `install_ansible.sh` script automates the installation of [Ansible](https://
 
 To install Ansible, run the script as root:
 
-```bash
-sudo ./install_ansible.sh
-```
+`sudo ./install_ansible.sh`
 
-After installation, you can verify it with:
+## What to expect to see from a sucessful install
+![image](https://github.com/user-attachments/assets/86d31d6b-1210-4044-89d9-29ac10582ada)
 
-```bash
-ansible --version
-```
+## After installation, you can verify it with: 
+   * `ansible --version`
+   * You should see something like this:
+     
+![image](https://github.com/user-attachments/assets/ce33144a-beef-4f8b-b438-81daf80d0bf2)
+
 
 ## Citations
 
