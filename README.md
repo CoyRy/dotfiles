@@ -1,11 +1,11 @@
 ## CoyRy dotfiles
-This repository contains configuration files and scripts to enhance the command-line experience on Linux, it includes:
+This repository contains configuration files and scripts to enhance the command-line experience, it includes:
 
 ## Contents
 
-* [Bash Configuration (`homefiles`)](homefiles/README.md)
-* [System Installation Scripts (`sys-installs`)](sys-installs/README.md)
-* [Vim Configuration (`vim-config`)](vim-config/README.md)
+* [Bash Configuration (`homefiles`)](homefiles/README.md): dotfiles for customizing a Bash environment
+* [System Installation Scripts (`sys-installs`)](sys-installs/README.md): Script to automate the installation of Ansible
+* [Vim Configuration (`vim-config`)](vim-config/README.md): Vim configuration and installation script
 
 
 ## How to clone repository
@@ -15,4 +15,4 @@ This repository contains configuration files and scripts to enhance the command-
  
 ## Retrospective notes of desired improvements
 
-* As my dotfiles collection grows, work on modularization for better management.
+* As my dotfiles collection grows, I plan to work on modularization for better management.
