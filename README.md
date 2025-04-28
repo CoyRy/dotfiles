@@ -15,4 +15,4 @@ This repository contains configuration files and scripts to enhance the command-
  
 ## Retrospective notes of desired improvements
 
-* As my dotfiles collection grows work on modularization for better management.
+* As my dotfiles collection grows, work on modularization for better management.
