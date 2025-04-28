@@ -2,9 +2,11 @@
 
 ## What this dotfiles collection contains
 This repository contains configuration files and scripts to enhance the command-line experience on Ubuntu, primarily for Bash.  It includes:
-* [Bash Configuration (`homefiles`)](#bash-configuration-homefiles)
-* [System Installation Scripts (`sys-installs`)](#system-installation-scripts-sys-installs)
-* [Vim Configuration (`vim-config`)](#vim-configuration-vim-config)
+
+* [Bash Configuration (`homefiles`)](homefiles/README.md)
+* [System Installation Scripts (`sys-installs`)](sys-installs/README.md)
+* [Vim Configuration (`vim-config`)](vim-config/README.md)
+
 
 ## How to clone repository
 `git clone git@github.com/CoyRy/dotfiles ~/homefiles`
