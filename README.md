@@ -9,7 +9,7 @@ This repository contains configuration files and scripts to enhance the command-
 
 
 ## How to clone repository
-`git clone git@github.com/CoyRy/dotfiles ~/homefiles`
+`git clone github.com/CoyRy/dotfiles ~/homefiles`
 
 * make sure to give executable permission to scripts
  
